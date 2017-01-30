@@ -1,4 +1,4 @@
-# Ansible role: java
+# Ansible role: Java
 
 Installs Java OpenJDK on CentOS/RHEL systems.
 
