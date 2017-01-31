@@ -1,4 +1,13 @@
 ---
+docker:
+  containers:
+    - name: node1
+      ansible_groups:
+        - servers
+      image: centos/systemd
+      image_version: latest
+      privileged: True
+
 vagrant:
   platforms:
     - name: centos-7
