@@ -1,6 +1,6 @@
 galaxy_info:
   author: Vinícius Figueiredo
-  description: Installs Java OpenJDK on CentOS/RHEL systems.
+  description: Installs Java OpenJDK in CentOS/RHEL systems.
   license: MIT
 
   platforms:
