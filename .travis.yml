@@ -12,7 +12,6 @@ install:
 - pip install molecule docker-py
 
 script:
-- ln -s ${PWD} ../java
 - molecule test --driver docker
 
 notifications:
