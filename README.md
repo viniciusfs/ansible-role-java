@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/viniciusfs/ansible-role-java.svg?branch=master)](https://travis-ci.org/viniciusfs/ansible-role-java)
 
-Installs Java OpenJDK on CentOS/RHEL systems.
+Installs Java OpenJDK in CentOS/RHEL systems.
 
 
 ## Role Variables
